@@ -1,3 +1,7 @@
+# FCP-CSC-17-1045
+ONLINE TAILORING STORE MANAGEMENT SYSTEM
+
+
 1. Unzip Folder into the desired location
 2. If using XAMPP as offline server,
 	a. Load files to xampp folder into htdocs
